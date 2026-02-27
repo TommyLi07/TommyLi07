@@ -36,9 +36,6 @@
 <a href="https://vee-validate.logaretm.com/v4/" target="_blank"><img alt="VeeValidate" src="https://img.shields.io/badge/VeeValidate-4FC08D?logo=vuedotjs&logoColor=fff"></a>
 <a href="https://ant.design/" target="_blank"><img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=fff"></a>
 
-<a href="https://svelte.dev/" target="_blank"><img alt="Svelte" src="https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white"></a>
-<a href="https://svelte.dev/" target="_blank"><img alt="SvelteKit" src="https://img.shields.io/badge/SvelteKit-%23f1413d.svg?logo=svelte&logoColor=white"></a>
-
 <a href="https://nextjs.org/" target="_blank"><img alt="Next" src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"></a>
 <a href="https://nuxt.com/" target="_blank"><img alt="Nuxt" src="https://img.shields.io/badge/Nuxt.js-002E3B?logo=nuxtdotjs&logoColor=#00DC82"></a>
 <a href="https://astro.build/" target="_blank"><img alt="Astro" src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff"></a>
